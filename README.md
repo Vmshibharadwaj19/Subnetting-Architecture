@@ -1,6 +1,17 @@
 
 # AWS VPC and Subnetting Project
 
+**Candidate**: Vamshi Prasad Goteti  
+**Project Title**: Full Stack Portfolio Website Deployment on AWS  
+**Technology Stack**: AWS EC2 (Amazon Linux 2023), Apache HTTP Server, GitHub, HTML/CSS/JS  
+**Hosting IP**: http://44.203.4.136  
+**GitHub Repository**: https://github.com/Vmshibharadwaj19/Aws  
+**Project Owner**: Vamshi Prasad Goteti  
+**Program**: MSc Computing, University of East London  
+**Contact**: vamshibharadwaj19@gmail.com
+
+
+
 This project demonstrates how to create a custom Virtual Private Cloud (VPC) in AWS with public and private subnets distributed across multiple Availability Zones.
 
 ## 🧠 Architecture Overview
